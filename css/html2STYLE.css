@@ -118,7 +118,7 @@ a:active{
 #navbar a{
 	color: #fff;
 	text-decoration: none;
-	font-size: 12px;
+	font-size: 19px;
 	
 }
 
@@ -144,7 +144,7 @@ a:active{
 
 #showcase h1{
 	color: #ffcccc;
-	font-size:90px;
+	font-size:80px;
 	line-height: 1.6em;
 	padding-top:10px;
 	text-align: center;
@@ -171,7 +171,7 @@ a:active{
 	text-align: center;
 	padding:1px;
 	margin-top:0;
-	font-size:30px;
+	font-size:15px;
 }
 
 @media(max-width:600px){
