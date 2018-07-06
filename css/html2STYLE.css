@@ -92,7 +92,7 @@ a:active{
 }
 
 #main-header h1{
-	padding: 15px;
+	padding: 19px;
 	text-align:center;
 	font-family:Poor Richard;
 	background-color: #ff6666;
@@ -118,7 +118,7 @@ a:active{
 #navbar a{
 	color: #fff;
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 18px;
 	
 }
 
@@ -171,7 +171,7 @@ a:active{
 	text-align: center;
 	padding:1px;
 	margin-top:0;
-	font-size:10px;
+	font-size:13px;
 }
 
 @media(max-width:600px){
