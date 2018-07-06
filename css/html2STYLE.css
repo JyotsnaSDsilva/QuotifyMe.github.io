@@ -1,0 +1,190 @@
+body{
+	background-color: #f4f4f4;
+	color: #555;
+	font-family: arial,helvetica,sans-serif;
+	line-height:1.6em;
+	margin:0;
+	font-size:19px;
+}
+
+.backg {
+	background-image:url('../css/images11/bubbles.jpg');
+	
+}
+
+
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hiddden;
+	font-size:30px;
+	
+	
+}
+
+
+a{
+text-decoration: none;
+color : #33ff99;
+	
+}
+
+a:hover{
+	color:red;
+	
+}
+
+a:active{
+	color:blue;
+}
+
+.categories h2 {
+	text-align:left;
+	color: #99ffff;
+	margin-left:15px;
+	font-family: Bahnschrift SemiBold;
+}
+
+.container2 { margin:5px 10px;
+	width:80%;
+	
+	
+}
+
+.container3{
+	width:80%;
+	background-color: #660000;
+	color: #fff;
+	padding:15px;
+	box-sizing: border-box;
+	margin:30px;
+}
+.container3 h3{
+	margin:5px;
+	width:90%;
+	padding: 20px;
+	font-size: 30px;
+	font-family: Lucida Calligraphy;
+	line-height:1.2em;
+	color: #ffcc33;
+	
+}
+
+.categories ul{
+	padding:20px;
+	list-style:square;
+	list-style:none;
+}
+
+.categories li{
+	padding-bottom:6px;
+	border-bottom:dotted 1px #333 ;
+	
+	
+	
+}
+
+
+#main-header{
+	background-color: coral;
+	color:#000;
+}
+
+#main-header h1{
+	padding: 20px;
+	text-align:center;
+	font-family:Poor Richard;
+	background-color: #ff6666;
+
+}
+
+#navbar{
+	background-color:#333;
+	color: #fff;
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+	word-spacing:0.9em;
+}
+
+#navbar li{
+	display:inline;
+	
+}
+
+#navbar a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 12px;
+	
+}
+
+#navbar a:hover{
+	color: yellow;
+}
+
+#navbar a:active{
+	color:blue;
+}
+
+#showcase{
+	background-image:url('../css/images11/green.jpg');
+	background-position: center right;
+	min-height:200px;
+	margin-bottom:100px;
+	text-align: center;
+	background-repeat:no-repeat;
+	background-position: center center;
+	padding:5px 5px;
+	
+}
+
+#showcase h1{
+	color: #ffcccc;
+	font-size:90px;
+	line-height: 1.6em;
+	padding-top:10px;
+	text-align: center;
+	font-family: Freestyle Script;
+	
+}
+
+#main{
+	
+	width: 90%;
+	padding:0 10px;
+	box-sizing: border-box;
+	color: #990033;
+}
+
+
+
+
+
+
+#main-footer{
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding:1px;
+	margin-top:0;
+	font-size:15px;
+}
+
+@media(max-width:600px){
+	#main{
+		 width:100%;
+		 float:none;
+	}
+	#sidebar{
+		 width:100%;
+		 float:none;
+	}
+}
+
+.nextpage h4{
+	text-align:center;
+}
