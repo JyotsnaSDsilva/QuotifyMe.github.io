@@ -89,10 +89,11 @@ a:active{
 #main-header{
 	background-color: coral;
 	color:#000;
+	padding: 10px 10px;
 }
 
 #main-header h1{
-	padding: 30px;
+	padding: 15px;
 	text-align:center;
 	font-family:Poor Richard;
 	background-color: #ff6666;
@@ -118,7 +119,7 @@ a:active{
 #navbar a{
 	color: #fff;
 	text-decoration: none;
-	font-size: 19px;
+	font-size: 25px;
 	
 }
 
@@ -144,7 +145,7 @@ a:active{
 
 #showcase h1{
 	color: #ffcccc;
-	font-size:80px;
+	font-size:75px;
 	line-height: 1.6em;
 	padding-top:10px;
 	text-align: center;
