@@ -68,7 +68,7 @@ a:active{
 	font-family: 'Kaushan Script', cursive;
 	line-height:1.2em;
 	color: #ffcc33;
-	
+	letter-spacing:1.5px;
 }
 
 .categories ul{
@@ -157,7 +157,7 @@ a:active{
 	width: 90%;
 	padding:0 10px;
 	box-sizing: border-box;
-	color: #990033;
+	color: #330033;
 }
 
 #main h1{
