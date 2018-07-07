@@ -65,7 +65,7 @@ a:active{
 	width:90%;
 	padding: 20px;
 	font-size: 30px;
-	font-family: Lucida Calligraphy;
+	font-family: 'Kaushan Script', cursive;
 	line-height:1.2em;
 	color: #ffcc33;
 	
@@ -94,7 +94,7 @@ a:active{
 #main-header h1{
 	padding: 20px;
 	text-align:center;
-	font-family:Poor Richard;
+	font-family: 'Eagle Lake', cursive;
 	background-color: #ff6666;
 
 }
@@ -148,7 +148,7 @@ a:active{
 	line-height: 1.6em;
 	padding-top:10px;
 	text-align: center;
-	font-family: Freestyle Script;
+	font-family: 'Kaushan Script', cursive;
 	
 }
 
