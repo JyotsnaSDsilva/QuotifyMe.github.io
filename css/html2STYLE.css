@@ -8,7 +8,7 @@ body{
 }
 
 .backg {
-	background-image:url('../css/images11/bubbles.jpg') no-repeat;
+	background-image:url('../css/images11/bubbles.jpg');
         Background-size : cover;
         Background-attachment:fixed;
 	
